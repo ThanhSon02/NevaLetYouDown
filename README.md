@@ -46,7 +46,7 @@ Daisy Care là ứng dụng đặt lịch khám/ chữa bệnh được lấy c�
 
 2. [A38734 - Nguyễn Chí Quân](https://github.com/Quan2611)
 
-3. [A40523 - Nguyễn Thanh Sơn](https://github.com/ThanhSon02)
+3. [A40523 - Trần Thanh Sơn](https://github.com/ThanhSon02)
 
 4. [A40622 - Bùi Huy Tùng](https://github.com/augustusflynn)
 
